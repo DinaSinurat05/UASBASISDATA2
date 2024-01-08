@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "659b9a0d0b9d6029b0e8ddde"
+  },
+  "id": 1,
+  "idmhs": 3444,
+  "iddosen": 100,
+  "namaDosenl": "Putri",
+  "namaDosen1": "Prof. Putri Baru"
+},
+{
+  "_id": {
+    "$oid": "659b9a0d0b9d6029b0e8dddf"
+  },
+  "id": 2,
+  "idmhs": 3444,
+  "iddosen": 101,
+  "namaDosenl": "Putra bangsa"
+},
+{
+  "_id": {
+    "$oid": "659b9a0d0b9d6029b0e8dde0"
+  },
+  "id": 3,
+  "idmhs": 3445,
+  "iddosen": 101,
+  "namaDosenl": "Putri"
+},
+{
+  "_id": {
+    "$oid": "659b9a0d0b9d6029b0e8dde1"
+  },
+  "id": 4,
+  "idmhs": 3445,
+  "iddosen": 102,
+  "namaDosenl": "Eva Laura"
+}]
